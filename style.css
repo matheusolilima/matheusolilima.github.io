@@ -1,0 +1,10 @@
+
+    h1,h2,h3{
+      color: blue;
+      font-family: sans-serif;
+    }
+    body{
+      font-family: sans-serif;
+      color: rgb(65, 216, 65);
+      background-color: rgb(29, 29, 36);
+    }
